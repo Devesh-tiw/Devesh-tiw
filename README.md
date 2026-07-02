@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh</h1>
 <h3 align="center">Aspiring Cloud AI Engineer | Patented AI Architect | B.Tech AIE at Amrita Vishwa Vidyapeetham</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/D4D03AQFyESxknb8liw/profile-displayphoto-scale_200_200/B4DZxdb9cOKEAY-/0/1771094140235?e=2147483647&v=beta&t=6GC1rv07IwuBrPZ18LyJ-706q4u7Pd4WVjVW1JVgxcQ" alt="devesh-tiw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/D4D03AQFyESxknb8liw/profile-displayphoto-scale_200_200/B4DZxdb9cOKEAY-/0/1771094140235?e=2147483647&v=beta&t=6GC1rv07IwuBrPZ18LyJ-706q4u7Pd4WVjVW1JVgxcQ" alt="devesh-tiw" /></a> </p>
 
 - 🔭 I’m currently working on **Green Link Patented Rover Ecosystem (Cloud AI & IoT)**
 
