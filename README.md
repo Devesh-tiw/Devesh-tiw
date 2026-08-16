@@ -48,7 +48,7 @@
 ```python
 class DeveshTiwari:
     name        = "Devesh Tiwari"
-    role        = "Aspiring AI Engineer | Patented AI Architect"
+    role        = "Student | Aspiring AI Engineer | Patented AI Architect | Reseacher"
     university  = "Amrita Vishwa Vidyapeetham"
     degree      = "B.Tech – Artificial Intelligence & Engineering"
     location    = "India 🇮🇳"
