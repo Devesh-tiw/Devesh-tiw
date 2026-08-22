@@ -2,6 +2,7 @@
 <!--                   HEADER BANNER                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=200&section=header&text=Devesh%20Tiwari&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Patented%20AI%20Architect%20%7C%20B.Tech%20AIE&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
