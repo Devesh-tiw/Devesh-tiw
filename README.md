@@ -1,20 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=200&section=header&text=Devesh%20Tiwari&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Patented%20AI%20Architect%20%7C%20B.Tech%20AIE&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=200&section=header&text=Devesh%20Tiwari&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20AIE&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=Aspiring+Cloud+AI+Engineer+%F0%9F%9A%80;Patented+AI+Architect+%F0%9F%A7%A0;Deep+Reinforcement+Learning+Enthusiast+%F0%9F%A4%96;Exploring+LLMs+%E2%80%A2+Neural+Networks+%E2%80%A2+Fractional+Calculus+%F0%9F%94%AC;Building+AI+that+talks+to+the+Physical+World+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%9A%80;%F0%9F%A7%A0;Deep+Learning+Enthusiast+%F0%9F%A4%96;Exploring+LLMs+%E2%80%A2+Neural+Networks+%E2%80%A2+Fractional+Calculus+%F0%9F%94%AC;Building+AI+that+talks+to+the+Physical+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               PROFILE IMAGE + BADGES                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
